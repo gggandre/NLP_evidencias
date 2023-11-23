@@ -7,7 +7,7 @@ export const useRunStatus = (run) => {
 
     useEffect(() => {
         if (run?.status === "in_progress") {
-            setStatus("Thinking ...");
+            setStatus("Pensando ...");
         } else if (run?.status === "queued") {
             setStatus("Queued ...");
         } else {
