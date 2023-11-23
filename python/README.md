@@ -1,5 +1,4 @@
 
-https://github.com/gggandre/NLP_evidencias/assets/84719490/658edfd7-7e22-424d-8a7a-714b98972acf
 # README para el Generador de Cuentos para Niños
 
 ## Introducción
